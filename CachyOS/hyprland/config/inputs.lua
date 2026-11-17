@@ -10,7 +10,7 @@ hl.config({
         kb_variant = "",
 
         -- On définit Alt Droit (ralt) comme touche de composition
-        kb_options = "compose:menu",
+        kb_options = "compose:ralt",
 
         -- Configuration du pavé tactile (Touchpad)
         touchpad = {

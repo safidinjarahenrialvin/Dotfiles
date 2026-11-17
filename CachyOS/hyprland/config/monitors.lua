@@ -22,5 +22,5 @@ hl.monitor({
 	mode = "1920x1080@60",
 	position = "auto-left",
 	scale = 1.0,
-	-- mirror = MONITOR1
+	-- mirror = MONITOR1,
 })
